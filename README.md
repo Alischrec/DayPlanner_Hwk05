@@ -1,6 +1,6 @@
 # DayPlanner_Hwk05
 
-Explore the [Project Page](https://alischrec.github.io/DayPlanner_Hwk05/)
+Explore the [Project Page](https://github.com/Alischrec/DayPlanner_Hwk05)
 
 View the [Github-pages](https://alischrec.github.io/DayPlanner_Hwk05/)
 
