@@ -21,10 +21,10 @@ View the [Github-pages](https://alischrec.github.io/DayPlanner_Hwk05/)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to create an interractive day calendar. -->
+The focus of this project was to create an interractive day calendar. The calendar is for the modern 9-5pm work day, with a date and time at the top. Once the hour has past, the color of the row will change, that way the user knows which hour of the day they are on. Each entry is saved into localStorage so that the user can keep a log of their tasks.
 
 
-<!-- ![Project Gif](assets/image/gif.gif)  -->
+![Project Gif](assets/image/gif.gif) 
 
 ### HTML:
 * [index.html](https://github.com/Alischrec/DayPlanner_Hwk05/blob/master/index.html)
@@ -36,7 +36,7 @@ View the [Github-pages](https://alischrec.github.io/DayPlanner_Hwk05/)
 * [script.js](https://github.com/Alischrec/DayPlanner_Hwk05/blob/master/script.js)
 
 ### Built With:
-<!-- This app was built upon [Bootstrap Framework](https://www.getbootstrap.com), [jQuery](https://jquery.com/download/), and [Momentjs](https://momentjs.com/)-->
+This app was built upon [Bootstrap Framework](https://www.getbootstrap.com), [jQuery](https://jquery.com/download/), and [Momentjs](https://momentjs.com/)
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
